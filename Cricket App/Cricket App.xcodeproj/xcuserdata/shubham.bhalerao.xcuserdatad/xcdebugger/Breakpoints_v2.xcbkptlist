@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "26023EEC-0F55-4911-B7D9-74A94332AEE2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "68AB1AF7-C198-4B2A-9431-A1AD7A8FE732"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cricket App/model/CurrMatchesUtility.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getCurrentMatches()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "68AB1AF7-C198-4B2A-9431-A1AD7A8FE732 - 84e4044e71f46541"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Cricket_App.CurrMatchesUtility.getCurrentMatches() async -&gt; Swift.Array&lt;Cricket_App.LiveMatch&gt;"
+                  moduleName = "Cricket App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubham.bhalerao/Desktop/iOS%20Training/case-studies/Cricket%20App/Cricket%20App/model/CurrMatchesUtility.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "158">
+               </Location>
+               <Location
+                  uuid = "68AB1AF7-C198-4B2A-9431-A1AD7A8FE732 - 84e4044e71f4656e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Cricket_App.CurrMatchesUtility.getCurrentMatches() async -&gt; Swift.Array&lt;Cricket_App.LiveMatch&gt;"
+                  moduleName = "Cricket App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubham.bhalerao/Desktop/iOS%20Training/case-studies/Cricket%20App/Cricket%20App/model/CurrMatchesUtility.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "158">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C02AA330-6C00-4A44-8568-FFC5FC461BFD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cricket App/viewModel/CurrMatchesVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "getAllCurrentMatches()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C02AA330-6C00-4A44-8568-FFC5FC461BFD - dea42cca5e798276"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cricket_App.CurrMatchesVM.getAllCurrentMatches() async -&gt; Swift.Array&lt;Cricket_App.LiveMatch&gt;"
+                  moduleName = "Cricket App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubham.bhalerao/Desktop/iOS%20Training/Case%20Study/Cricket%20App/Cricket%20App/viewModel/CurrMatchesVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "49">
+               </Location>
+               <Location
+                  uuid = "C02AA330-6C00-4A44-8568-FFC5FC461BFD - f9829cfd47d29298"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Cricket_App.CurrMatchesVM.getAllCurrentMatches() async -&gt; Swift.Array&lt;Cricket_App.LiveMatch&gt;"
+                  moduleName = "Cricket App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubham.bhalerao/Desktop/iOS%20Training/Case%20Study/Cricket%20App/Cricket%20App/viewModel/CurrMatchesVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "21">
+               </Location>
+               <Location
+                  uuid = "C02AA330-6C00-4A44-8568-FFC5FC461BFD - 892f0c0d3920fd44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cricket_App.CurrMatchesVM.getAllCurrentMatches() async -&gt; Swift.Array&lt;Cricket_App.LiveMatch&gt;"
+                  moduleName = "Cricket App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubham.bhalerao/Desktop/iOS%20Training/case-studies/Cricket%20App/Cricket%20App/viewModel/CurrMatchesVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "49">
+               </Location>
+               <Location
+                  uuid = "C02AA330-6C00-4A44-8568-FFC5FC461BFD - ae09bc3a208bedaa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Cricket_App.CurrMatchesVM.getAllCurrentMatches() async -&gt; Swift.Array&lt;Cricket_App.LiveMatch&gt;"
+                  moduleName = "Cricket App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubham.bhalerao/Desktop/iOS%20Training/case-studies/Cricket%20App/Cricket%20App/viewModel/CurrMatchesVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "21">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "43A6DADA-B619-45AE-9927-B08A62D48CCC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cricket App/model/CurrMatchesUtility.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "getCurrentMatches()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "43A6DADA-B619-45AE-9927-B08A62D48CCC - 5608c119caeabe97"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Cricket_App.CurrMatchesUtility.getCurrentMatches() async -&gt; Swift.Array&lt;Cricket_App.LiveMatch&gt;"
+                  moduleName = "Cricket App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubham.bhalerao/Desktop/iOS%20Training/Case%20Study/Cricket%20App/Cricket%20App/model/CurrMatchesUtility.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "150">
+               </Location>
+               <Location
+                  uuid = "43A6DADA-B619-45AE-9927-B08A62D48CCC - aa096ccb081c1ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.String, Alamofire.AFError&gt;) -&gt; () in Cricket_App.CurrMatchesUtility.getCurrentMatches() async -&gt; Swift.Array&lt;Cricket_App.LiveMatch&gt;"
+                  moduleName = "Cricket App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubham.bhalerao/Desktop/iOS%20Training/Case%20Study/Cricket%20App/Cricket%20App/model/CurrMatchesUtility.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "189">
+               </Location>
+               <Location
+                  uuid = "43A6DADA-B619-45AE-9927-B08A62D48CCC - 5608c119caeabe97"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Cricket_App.CurrMatchesUtility.getCurrentMatches() async -&gt; Swift.Array&lt;Cricket_App.LiveMatch&gt;"
+                  moduleName = "Cricket App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubham.bhalerao/Desktop/iOS%20Training/Case%20Study/Cricket%20App/Cricket%20App/model/CurrMatchesUtility.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "181">
+               </Location>
+               <Location
+                  uuid = "43A6DADA-B619-45AE-9927-B08A62D48CCC - 2ca83cc10bb3ffa5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Cricket_App.CurrMatchesUtility.getCurrentMatches() async -&gt; Swift.Array&lt;Cricket_App.LiveMatch&gt;"
+                  moduleName = "Cricket App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubham.bhalerao/Desktop/iOS%20Training/case-studies/Cricket%20App/Cricket%20App/model/CurrMatchesUtility.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "181">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "094AC9C5-61C6-4F77-A270-1937B5B25626"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cricket App/model/AllMatchesUtility.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "getAllMatches()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D55DC74-0B39-4A35-A037-2F7085FD31A2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cricket App/viewModel/AllMatchesVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getAllMatches()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8D55DC74-0B39-4A35-A037-2F7085FD31A2 - 4902e8e953ff500d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Cricket_App.AllMatchesVM.getAllMatches() async throws -&gt; Swift.Array&lt;Cricket_App.LiveMatch&gt;"
+                  moduleName = "Cricket App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubham.bhalerao/Desktop/iOS%20Training/case-studies/Cricket%20App/Cricket%20App/viewModel/AllMatchesVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "8D55DC74-0B39-4A35-A037-2F7085FD31A2 - 36a2eeab3ced26db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Cricket_App.AllMatchesVM.getAllMatches() async throws -&gt; Swift.Array&lt;Cricket_App.LiveMatch&gt;"
+                  moduleName = "Cricket App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubham.bhalerao/Desktop/iOS%20Training/case-studies/Cricket%20App/Cricket%20App/viewModel/AllMatchesVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "8D55DC74-0B39-4A35-A037-2F7085FD31A2 - 24b3ca2b645af41b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Cricket_App.AllMatchesVM.getAllMatches() async throws -&gt; Swift.Array&lt;Cricket_App.LiveMatch&gt;"
+                  moduleName = "Cricket App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubham.bhalerao/Desktop/iOS%20Training/case-studies/Cricket%20App/Cricket%20App/viewModel/AllMatchesVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  uuid = "8D55DC74-0B39-4A35-A037-2F7085FD31A2 - 69fba4c492044a10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Cricket_App.AllMatchesVM.getAllMatches() async throws -&gt; Swift.Array&lt;Cricket_App.LiveMatch&gt;"
+                  moduleName = "Cricket App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubham.bhalerao/Desktop/iOS%20Training/case-studies/Cricket%20App/Cricket%20App/viewModel/AllMatchesVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3C88AB4D-4308-4BAD-A880-651354E9EC51"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cricket App/view/AllMatchesVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3C88AB4D-4308-4BAD-A880-651354E9EC51 - a1abde59f7a5bfc4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in Cricket_App.AllMatchesVC.viewDidLoad() -&gt; ()"
+                  moduleName = "Cricket App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubham.bhalerao/Desktop/iOS%20Training/case-studies/Cricket%20App/Cricket%20App/view/AllMatchesVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  uuid = "3C88AB4D-4308-4BAD-A880-651354E9EC51 - c3e55fbf1b5cb77c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async throws -&gt; () in Cricket_App.AllMatchesVC.viewDidLoad() -&gt; ()"
+                  moduleName = "Cricket App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubham.bhalerao/Desktop/iOS%20Training/case-studies/Cricket%20App/Cricket%20App/view/AllMatchesVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "3C88AB4D-4308-4BAD-A880-651354E9EC51 - fa38eaa92ae213ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in Cricket_App.AllMatchesVC.viewDidLoad() -&gt; ()"
+                  moduleName = "Cricket App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubham.bhalerao/Desktop/iOS%20Training/case-studies/Cricket%20App/Cricket%20App/view/AllMatchesVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "95">
+               </Location>
+               <Location
+                  uuid = "3C88AB4D-4308-4BAD-A880-651354E9EC51 - 57ce614ecb8339d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in Cricket_App.AllMatchesVC.viewDidLoad() -&gt; ()"
+                  moduleName = "Cricket App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubham.bhalerao/Desktop/iOS%20Training/case-studies/Cricket%20App/Cricket%20App/view/AllMatchesVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
